@@ -1,0 +1,3 @@
+Just putting all the Codewars solutions in one place for myself.
+
+Nothing to see here, move along...
